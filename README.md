@@ -64,13 +64,9 @@ A simple and clean iOS To-Do List application built using **UIKit**, demonstrati
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Beshoy Atef](https://github.com/beshoyatef)
+Made with ❤️ by [Beshoy Atef](https://github.com/Besho22A)
 
----
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
